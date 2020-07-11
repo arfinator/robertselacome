@@ -25,5 +25,7 @@ public class jetpack : MonoBehaviour {
         Vector3 direction = new Vector3(0.0f, 5.0f, 0.0f);
 
         //character.Move(direction * Time.fixedDeltaTime * speed);
+
+        //new change
     }
 }
